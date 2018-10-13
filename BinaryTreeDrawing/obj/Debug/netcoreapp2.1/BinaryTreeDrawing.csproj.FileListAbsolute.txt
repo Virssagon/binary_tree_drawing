@@ -1,0 +1,11 @@
+D:\coding\synced\TreeDrawing\TreeDrawing\BinaryTreeProject\BinaryTreeDrawing\bin\Debug\netcoreapp2.1\BinaryTreeDrawing.deps.json
+D:\coding\synced\TreeDrawing\TreeDrawing\BinaryTreeProject\BinaryTreeDrawing\bin\Debug\netcoreapp2.1\BinaryTreeDrawing.runtimeconfig.json
+D:\coding\synced\TreeDrawing\TreeDrawing\BinaryTreeProject\BinaryTreeDrawing\bin\Debug\netcoreapp2.1\BinaryTreeDrawing.runtimeconfig.dev.json
+D:\coding\synced\TreeDrawing\TreeDrawing\BinaryTreeProject\BinaryTreeDrawing\bin\Debug\netcoreapp2.1\BinaryTreeDrawing.dll
+D:\coding\synced\TreeDrawing\TreeDrawing\BinaryTreeProject\BinaryTreeDrawing\bin\Debug\netcoreapp2.1\BinaryTreeDrawing.pdb
+D:\coding\synced\TreeDrawing\TreeDrawing\BinaryTreeProject\BinaryTreeDrawing\obj\Debug\netcoreapp2.1\BinaryTreeDrawing.csprojAssemblyReference.cache
+D:\coding\synced\TreeDrawing\TreeDrawing\BinaryTreeProject\BinaryTreeDrawing\obj\Debug\netcoreapp2.1\BinaryTreeDrawing.csproj.CoreCompileInputs.cache
+D:\coding\synced\TreeDrawing\TreeDrawing\BinaryTreeProject\BinaryTreeDrawing\obj\Debug\netcoreapp2.1\BinaryTreeDrawing.AssemblyInfoInputs.cache
+D:\coding\synced\TreeDrawing\TreeDrawing\BinaryTreeProject\BinaryTreeDrawing\obj\Debug\netcoreapp2.1\BinaryTreeDrawing.AssemblyInfo.cs
+D:\coding\synced\TreeDrawing\TreeDrawing\BinaryTreeProject\BinaryTreeDrawing\obj\Debug\netcoreapp2.1\BinaryTreeDrawing.dll
+D:\coding\synced\TreeDrawing\TreeDrawing\BinaryTreeProject\BinaryTreeDrawing\obj\Debug\netcoreapp2.1\BinaryTreeDrawing.pdb
